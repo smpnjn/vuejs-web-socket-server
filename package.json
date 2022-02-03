@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "express": "^4.17.2",
+    "express-ws": "^5.0.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {

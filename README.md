@@ -1,24 +1,12 @@
-# test-app
 
-## Project setup
-```
-npm install
-```
+### Running the websocket server
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+Run the following to load the dev Vue.JS serve functionality
+``` 
+npm run server
 ```
 
-### Compiles and minifies for production
+And then run the following to start up your vue.js server:
 ```
-npm run build
+node index.mjs
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
